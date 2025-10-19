@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Simin YANG / Phd Candidate"
+title                    : "Simin YANG"
 title_separator          : "-"
 name                     : &name "Simin YANG"
 description              : &description "Phd Candidate"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Simin YANG"
   pronouns         : # example: "she/her"  
-  bio              : "Phd Candidate at HCI, haptic rendering, VR/AR"  # A short bio that appears in the author profile section
+  bio              : "PhD candidate specializing in haptic interaction and rendering for VR/AR. My research spans flexible haptic devices, perception studies, and engine‑level integration. Previously co‑founded a startup and led the launch of HKUST’s first satellite."  # A short bio that appears in the author profile section
   location         : "Hong Kong"
-  employer         : "Hong Kong University of Science and Technology"
+  employer         : "HKUST"
   uri              : # URL
   email            : "syangcj@connect.ust.hk" 
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/lerry-yang-a3827918a/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
