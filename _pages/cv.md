@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-- Ph.D in Division of Emerging Interdisciplinary Areas (EMIA), HONG KONG University of Science and Technology, 2021-2026(expected)
-- B.S. in Information Technology (IT), South China University of Technology, 2015-2019
+- **Ph.D.**, Division of Emerging Interdisciplinary Areas (EMIA), The Hong Kong University of Science and Technology, 2021–Present
+- **B.S.**, Information Engineering (Feng Bingquan Experimental Class), School of Electronics and Information, South China University of Technology, 2015–2019
 
 ---
 
@@ -88,7 +88,7 @@ Awards, Patents, and Skills
 
 **Certificates**: PMP
 
-**Skills**: Python, C/C++, Axure, Figma, Atlas.ti, Unity, UE5
+**Skills**: Python, C/C++, C#, PyTorch, Axure, Figma, Atlas.ti, Unity, UE5, Statistical Analysis
 
 ---
 
